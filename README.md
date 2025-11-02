@@ -1,19 +1,48 @@
-# Hello! I'm Eggsy! Full Stack Developer
-## About me
-Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angular. My journey in the tech world began with a fascination for building solutions that not only perform efficiently but also deliver a compelling user experience.
-## Contact me
+# 👋 Hola, soy Belén! | Marketing, Data & Full Stack Explorer
 
-As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
+---
 
-## Skills
-- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+## 🚀 Acerca de mí
 
-## Technologies
-- Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
-- Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
+Soy **Belén**, navego entre la **estrategia de negocios y la tecnología**.
 
-## Languages
+Actualmente, mi perfil se construye en la intersección de estos mundos:
+* **Estudiante de Marketing 🎓** (aportando visión estratégica y enfoque al cliente).
+* **Analista de Datos 📊** (transformando datos complejos en decisiones de valor).
 
+Este espacio en GitHub es mi laboratorio: aquí documento los proyectos, el aprendizaje y el crecimiento continuo, buscando aplicar mi *expertise* en Datos y Marketing para crear soluciones tecnológicas de valor.
 
-## Hobbies
-- Dancing: ...
+---
+
+## 💡 Formación y Experiencia Clave
+
+### 1. Desarrollo Java (Globant)
+Mi *core* técnico en *backend* se fortaleció durante el programa intensivo de Globant.
+
+* **Enfoque:** Desarrollo *backend* y construcción de **APIs REST** con **Java**, **Spring Boot**, Spring MVC y MySQL.
+* **Habilidades:** Implementación de seguridad (JWT y Spring Security) y trabajo en equipos ágiles (SCRUM) con simulación de dinámicas reales de empresa.
+
+### 2. Simulación Laboral (No Country)
+Participé como **Marketing Specialist** en el proyecto OmniConnect.
+
+* **Enfoque:** Diseño e implementación de una **estrategia de marketing omnicanal** en un entorno de trabajo remoto simulado.
+* **Habilidades:** Creación de Buyer Personas y Plan de Contenidos, segmentación de audiencias y colaboración multidisciplinaria (unión de estrategia, datos y producto).
+
+---
+
+## 🛠️ Tecnologías Clave
+
+| Categoría | Tecnologías | Enfoque Principal |
+| :--- | :--- | :--- |
+| **Back-End** | **Java**, Spring Boot, Spring MVC, MySQL | APIs REST, Seguridad, Desarrollo Backend robusto. |
+| **Front-End** | **Angular**, TypeScript | Creación de interfaces interactivas y eficientes. |
+| **Data & BI** | Python, SQL, [Tu herramienta: Ej. Tableau/PowerBI] | Análisis, transformación y visualización de datos. |
+
+---
+
+## 💬 ¡Conectemos!
+
+Busco proyectos desafiantes donde mi combinación de *skills* en código, análisis y estrategia pueda generar un impacto real. ¡Aquí te muestro lo que estoy aprendiendo y construyendo!
+
+**👉 Email:** [Tu Email]
+**👉 LinkedIn:** [Tu URL de LinkedIn]
