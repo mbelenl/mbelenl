@@ -45,4 +45,5 @@ Participé como **Marketing Specialist** en el proyecto OmniConnect.
 Busco proyectos desafiantes donde mi combinación de *skills* en código, análisis y estrategia pueda generar un impacto real. ¡Aquí te muestro lo que estoy aprendiendo y construyendo!
 
 **👉 Email:** mbelenleiva@gmail.com
+**👉 Portfolio:** https://www.notion.so/Bel-n-Leiva-Portfolio-Personal-1c3eb19fb95580aa8ddbf3328179a7f5?source=copy_link
 **👉 LinkedIn:** https://www.linkedin.com/in/beleiva/
